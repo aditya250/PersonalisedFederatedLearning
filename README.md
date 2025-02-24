@@ -1,6 +1,6 @@
 # PersonalisedFederatedLearning
 
-# Personalized Federated Learning
+
 
 ## 🚀 Overview
 This project implements **Personalized Federated Learning (PFL)** using the **Flower (FL) framework** and **PyTorch**. It evaluates how different datasets (CIFAR-10, Fashion-MNIST, and SVHN) can benefit from personalized models while using a federated learning setup.
